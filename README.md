@@ -1,7 +1,6 @@
-# ECS7024P Coursework 3 - Kasey Purvor 200851709
+# Flat Price Data Analysis
 
-## Flat Price Data Analysis
-
+## Contents
 * Part 0 | Introduction
 * Part 1 | Data Preprocessing and Initial Analysis
     * Part 1.1 | Data Preprocessing 
