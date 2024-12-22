@@ -1,5 +1,6 @@
 # UK Flat Price Change Analysis
 [See Full Report](/report/report.md)
+
 This project analyses changes in flat prices across different regions of the UK between July 2017 and July 2018. The analysis uses visualisations and statistical testing to determine whether the region of a property has a statistically significant association with the direction of its price change.
 
 ## **Data**
